@@ -1,0 +1,7 @@
+package dio.project.Design.Patterns.model;
+
+import javax.persistence.Entity;
+
+public class Client {
+
+}

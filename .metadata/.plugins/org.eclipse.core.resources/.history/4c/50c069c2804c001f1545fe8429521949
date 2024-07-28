@@ -1,0 +1,5 @@
+package dio.project.Design.Patterns.model;
+
+public class Client {
+
+}
